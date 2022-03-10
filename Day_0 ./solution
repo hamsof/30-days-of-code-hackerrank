@@ -1,0 +1,3 @@
+/////////  simple  //////////////
+
+cout << "Hello, World." << endl;
